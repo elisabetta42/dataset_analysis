@@ -1,0 +1,1310 @@
+pclass,survived,name,sex,age
+1,1, Miss. Elisabeth Walton,female,29
+1,1, Master. Hudson Trevor,male,0
+1,0, Miss. Helen Loraine,female,2
+1,0, Mr. Hudson Joshua Creighton,male,30
+1,0, Mrs. Hudson J C (Bessie Waldo Daniels),female,25
+1,1, Mr. Harry,male,48
+1,1, Miss. Kornelia Theodosia,female,63
+1,0, Mr. Thomas Jr,male,39
+1,1, Mrs. Edward Dale (Charlotte Lamson),female,53
+1,0, Mr. Ramon,male,71
+1,0, Col. John Jacob,male,47
+1,1, Mrs. John Jacob (Madeleine Talmadge Force),female,18
+1,1, Mme. Leontine Pauline,female,24
+1,1,"Barber, Miss. Ellen ""Nellie""",female,26
+1,1, Mr. Algernon Henry Wilson,male,80
+1,0, Mr. John D,male,
+1,0, Mr. Quigg Edmond,male,24
+1,1, Mrs. James (Helene DeLaudeniere Chaput),female,50
+1,1, Miss. Albina,female,32
+1,0, Mr. Thomson,male,36
+1,1, Mr. Richard Leonard,male,37
+1,1, Mrs. Richard Leonard (Sallie Monypeny),female,47
+1,1, Mr. Karl Howell,male,26
+1,1, Miss. Rosalie,female,42
+1,1, Miss. Ellen,female,29
+1,0, Mr. Jakob,male,25
+1,1, Mr. Dickinson H,male,25
+1,1, Mrs. Dickinson H (Helen Walton),female,19
+1,1, Miss. Amelia,female,35
+1,1, Mr. Mauritz Hakan,male,28
+1,0, Mr. Stephen Weart,male,45
+1,1, Mr. Henry,male,40
+1,1, Miss. Caroline,female,30
+1,1, Miss. Elizabeth,female,58
+1,0, Mr. John James,male,42
+1,1, Miss. Grace Scott,female,45
+1,1, Miss. Elsie Edith,female,22
+1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,
+1,0, Mr. John Bertram,male,41
+1,0, Mr. Emil,male,48
+1,0, Dr. Arthur Jackson,male,
+1,1, Mrs. James Joseph (Margaret Tobin),female,44
+1,1, Mrs. John Murray (Caroline Lane Lamson),female,59
+1,1, Mrs. William Robert (Emma Eliza Ward),female,60
+1,1, Miss. Elizabeth Margaret,female,41
+1,0, Major. Archibald Willingham,male,45
+1,0, Mr. Alexander,male,
+1,1, Mr. Edward Pennington,male,42
+1,1, Mrs. Edward (Helen Churchill Hungerford),female,53
+1,1, Mr. Thomas Drake Martinez,male,36
+1,1, Mrs. James Warburton Martinez (Charlotte Wardle Drake),female,58
+1,0, Mr. Frans Olof,male,33
+1,0, Mr. Francisco M,male,28
+1,0, Mr. Jose Pedro,male,17
+1,1, Master. William Thornton II,male,11
+1,1, Miss. Lucile Polk,female,14
+1,1, Mr. William Ernest,male,36
+1,1, Mrs. William Ernest (Lucile Polk),female,36
+1,0, Mr. Howard Brown,male,49
+1,1, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick),female,
+1,0, Mr. Tyrell William,male,36
+1,1, Mrs. Tyrell William (Julia Florence Siegel),female,76
+1,0, Mr. Herbert Fuller,male,46
+1,1, Mrs. Herbert Fuller (Carrie Constance Toogood),female,47
+1,1, Mr. Norman Campbell,male,27
+1,1, Mrs. Norman Campbell (Bertha Griggs),female,33
+1,1, Miss. Victorine,female,36
+1,1, Miss. Gladys,female,30
+1,1, Mr. Paul Romaine,male,45
+1,1, Mrs. (Edith Martha Bowerman),female,
+1,0, Mr. Roderick Robert Crispin,male,
+1,0, Mr. Walter Miller,male,27
+1,1, Mrs. Walter Miller (Virginia McDowell),female,26
+1,1, Miss. Alice,female,22
+1,0, Mr. George Quincy,male,
+1,0, Mr. Edward Pomeroy,male,47
+1,1, Miss. Sara Rebecca,female,39
+1,0, Mr. Alexander Taylor Jr,male,37
+1,1, Mrs. Alexander Taylor (Mary Eliza Ingersoll),female,64
+1,1, Mrs. Robert Clifford (Malvina Helen Lamson),female,55
+1,0, Mr. John Bertram,male,
+1,0, Capt. Edward Gifford,male,70
+1,1, Miss. Harriet R,female,36
+1,1, Mrs. Edward Gifford (Catherine Elizabeth Halstead),female,64
+1,0, Mr. John Bradley,male,39
+1,1, Mrs. John Bradley (Florence Briggs Thayer),female,38
+1,1, Mr. Peter Denis ,male,51
+1,1, Mr. Robert Williams,male,27
+1,1, Miss. Sarah,female,33
+1,0, Mr. Thornton,male,31
+1,1, Mrs. Thornton (Orian Hays),female,27
+1,1, Mr. Albert Adrian,male,31
+1,1, Mrs. Albert Adrian (Vera Gillespie),female,17
+1,1, Dr. Washington,male,53
+1,1, Master. Washington,male,4
+1,1, Mrs. Washington (Ruth Vidaver),female,54
+1,0, Mr. Walter Donald,male,50
+1,1, Mrs. Frederick Charles (Mary Helene Baxter),female,27
+1,1, Mrs. Walter Donald (Mahala Dutton),female,48
+1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) ",female,48
+1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49
+1,0, Mr. William Crothers,male,39
+1,1, Mrs. Boulton (Olive Potter),female,23
+1,1, Miss. Caroline Louise,female,38
+1,1, Miss. Elizabeth Mussey,female,54
+1,0, Miss. Edith Corse,female,36
+1,0, Mr. John,male,
+1,1, Mrs. Alfred (Antoinette),female,
+1,1, Miss. Margaret,female,
+1,1,"Flynn, Mr. John Irwin (""Irving"")",male,36
+1,0, Mr. Benjamin Laventall,male,30
+1,1, Miss. Alice Elizabeth,female,24
+1,1, Miss. Ethel Flora,female,28
+1,1, Miss. Mabel Helen,female,23
+1,0, Mr. Charles Alexander,male,19
+1,0, Mr. Mark,male,64
+1,1, Mrs. Mark (Mary McDougald),female,60
+1,1, Miss. Laura Mabel,female,30
+1,0, Mr. Thomas Parham,male,
+1,1, Dr. Henry William,male,50
+1,1, Mr. Isaac Gerald,male,43
+1,1, Mrs. Henry William (Clara Heinsheimer),female,
+1,1, Miss. Hedwig Margaritha,female,22
+1,1, Mr. Maxmillian,male,60
+1,1, Mrs. Maxmillian (Margaretha Emerentia Stehli),female,48
+1,0, Mr. Richard,male,
+1,0, Mr. Jacques Heath,male,37
+1,1, Mrs. Jacques Heath (Lily May Peel),female,35
+1,0, Mr. Arthur H,male,47
+1,1, Miss. Amalie,female,35
+1,1, Miss. Dorothy Winifred,female,22
+1,1, Mrs. Leonard (Pauline C Boeson),female,45
+1,0, Mr. Victor,male,24
+1,1, Mr. Samuel L,male,49
+1,1, Mrs. Samuel L (Edwiga Grabowska),female,
+1,0, Mr. George B,male,71
+1,1, Col. Archibald IV,male,53
+1,1, Miss. Margaret Edith,female,19
+1,0, Mr. George Edward,male,38
+1,1, Mrs. William Thompson (Edith Junkins),female,58
+1,1, Mr. William Bertram,male,23
+1,1, Mrs. Leo David (Blanche Strouse),female,45
+1,0, Mr. Benjamin,male,46
+1,1, Mr. George Achilles,male,25
+1,1, Mrs. George Achilles (Dorothy Annan),female,25
+1,1, Mr. Henry Sleeper,male,48
+1,1, Mrs. Henry Sleeper (Myna Haxtun),female,49
+1,0, Mr. Charles H,male,
+1,0, Mr. Henry Birkhardt,male,45
+1,1, Mrs. Henry Birkhardt (Irene Wallach),female,35
+1,0, Mr. William,male,40
+1,1, Mr. Hammad,male,27
+1,1, Mr. Walter James,male,
+1,1, Miss. Margaret Bechstein,female,24
+1,0, Mr. Charles Melville,male,55
+1,1, Mrs. Charles Melville (Clara Jennings Gregg),female,52
+1,0, Mr. Christopher,male,42
+1,0, Mr. Herbert Henry,male,
+1,0, Mr. William Edward,male,55
+1,1, Miss. Jean Gertrude,female,16
+1,1, Mrs. Louis Albert (Ida Sophia Fischer),female,44
+1,1, Mrs. John C (Anna Andrews),female,51
+1,0, Mr. Alexander Oskar,male,42
+1,1, Mrs. Alexander Oskar (Mary Aline Towner),female,35
+1,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35
+1,1, Mr. Frederick Maxfield,male,38
+1,0, Mr. William Fisher,male,
+1,1, Mrs. Frederick Maxfield (Jane Anne Forby),female,35
+1,1, Miss. Amelie,female,38
+1,0, Miss. Ann Elizabeth,female,50
+1,1, Mr. Joseph Bruce,male,49
+1,0, Mr. Charles Cresson,male,46
+1,0, Mr. Henry Forbes,male,50
+1,0, Mr. Edwin,male,32
+1,0, Mr. Edward Austin,male,58
+1,0, Mr. Frederick R,male,41
+1,1, Mrs. Frederick R (Marion),female,
+1,1, Mr. Edwin Nelson Jr,male,42
+1,1, Mrs. Edwin Nelson Jr (Gertrude Parsons),female,45
+1,0, Mr. Herman,male,
+1,1, Miss. Emilie,female,39
+1,1, Dr. Alice (Farnham),female,49
+1,1, Miss. Bertha,female,30
+1,1, Mr. Gustave J,male,35
+1,0, Mr. Ervin G,male,
+1,0,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42
+1,1, Mrs. Carl Johan (Sigrid Posse),female,55
+1,1, Miss. Mary Conover,female,16
+1,1, Mrs. Ernest H (Elizabeth Lindsey James),female,51
+1,0, Mr. Milton Clyde,male,29
+1,1, Miss. Gretchen Fiske,female,21
+1,0, Mr. Joseph Holland,male,30
+1,1, Miss. Elise,female,58
+1,1, Miss. Georgette Alexandra,female,15
+1,0, Mr. John Edward,male,30
+1,1, Miss. Roberta,female,16
+1,1, Mr. Pierre,male,
+1,0, Mr. Daniel Warner,male,19
+1,1, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson),female,18
+1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24
+1,0, Mr. Thomas Francis,male,46
+1,0, Mr. Timothy J,male,54
+1,1, Mr. James Robert,male,36
+1,0, Mr. Edgar Joseph,male,28
+1,1, Mrs. Edgar Joseph (Leila Saks),female,
+1,0, Mr. Francis Davis,male,65
+1,0, Dr. William Edward,male,44
+1,1, Miss. Daisy E,female,33
+1,1, Mrs. William Edward (Lillian E Thorpe),female,37
+1,1, Mr. Philipp Edmund,male,30
+1,0, Mr. Harry Markland,male,55
+1,0, Mr. Clarence Bloomfield,male,47
+1,0, Mr. Charles H,male,37
+1,1, Miss. Madeleine,female,31
+1,1, Miss. Marjorie,female,23
+1,0, Mr. Arthur Webster,male,58
+1,1, Miss. Helen Monypeny,female,19
+1,0, Mr. Arthur Ernest,male,64
+1,1, Dona. Fermina,female,39
+1,1, Mr. Alfred Fernand,male,
+1,1, Miss. Helene Ragnhild,female,22
+1,0, Mr. Engelhart Cornelius,male,65
+1,0, Mr. Servando,male,28
+1,0, Mr. William Henry Marsh,male,
+1,0, Mr. Austen,male,45
+1,0, Mr. Vivian Ponsonby,male,23
+1,0, Mr. Thomas Clinton,male,29
+1,1, Mrs. Thomas (Edith Wearne),female,22
+1,0, Mr. Victor de Satode,male,18
+1,1, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,17
+1,1, Miss. Anne,female,30
+1,1, Major. Arthur Godfrey,male,52
+1,0, Mr. Walter Chamberlain,male,47
+1,1, Mrs. Thomas Jr (Lily Alexenia Wilson),female,56
+1,0, Jonkheer. John George,male,38
+1,1, Mr. George Alexander Lucien,male,
+1,0, Mr. Sante,male,22
+1,0, Mr. Victor,male,
+1,1, Mrs. Edward Scott (Elisabeth Walton McMillan),female,43
+1,0, Mr. Washington Augustus II,male,31
+1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45
+1,0, Mr. Hugh Roscoe,male,
+1,1, Miss. Edith Louise,female,33
+1,0,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,46
+1,0, Mr. John Hugo,male,36
+1,1, the Countess. of (Lucy Noel Martha Dyer-Edwards),female,33
+1,0, Mr. Martin,male,55
+1,1, Mrs. Martin (Elizabeth L. Barrett),female,54
+1,0, Mr. Alfred G,male,33
+1,1, Master. John Borie,male,13
+1,1, Miss. Emily Borie,female,18
+1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21
+1,0, Mr. Arthur Larned,male,61
+1,1, Mrs. Arthur Larned (Emily Maria Borie),female,48
+1,1, Mr. Adolphe,male,
+1,1, Mlle. Emma,female,24
+1,1, Mr. Abraham L,male,
+1,1, Mrs. Paul (Emma Mock),female,35
+1,1, Miss. Augusta,female,30
+1,1, Mr. Frederic Kimber,male,34
+1,1, Miss. Elizabeth W,female,40
+1,1, Mr. Spencer Victor,male,35
+1,0, Mr. William Baird,male,50
+1,1, Mrs. William Baird (Alice Munger),female,39
+1,1, Col. Oberst Alfons,male,56
+1,1, Mr. William Thompson,male,28
+1,0, Mr. John Montgomery,male,56
+1,0, Mr. James Clinch,male,56
+1,0, Mr. Lucien Philip,male,24
+1,0, Mr. Richard William,male,
+1,1, Mrs. Lucien Philip (Mary Eloise Hughes),female,18
+1,1, Mr. John Pillsbury,male,24
+1,1, Mrs. John Pillsbury (Nelle Stevenson),female,23
+1,1, Master. Robert Douglas,male,6
+1,1, Mr. Frederic Oakley,male,45
+1,1, Mrs. Frederic Oakley (Margaretta Corning Stone),female,40
+1,0, Mr. William Augustus,male,57
+1,1, Mrs. William Augustus (Marie Eugenie),female,
+1,1, Dr. Max,male,32
+1,0, Mr. William Thomas,male,62
+1,1, Mr. Charles Emil Henry,male,54
+1,1, Mrs. Charles Emil Henry (Annie May Morris),female,43
+1,1, Mrs. Walter Bertram (Martha Eustis),female,52
+1,0, Mr. Albert A,male,
+1,1, Mrs. George Nelson (Martha Evelyn),female,62
+1,0, Mr. Isidor,male,67
+1,0, Mrs. Isidor (Rosalie Ida Blun),female,63
+1,0, Mr. Frederick,male,61
+1,1, Mrs. Frederick Joel (Margaret Welles Barron),female,48
+1,1, Miss. Ruth,female,18
+1,0, Mr. Emil,male,52
+1,1, Mrs. Emil (Tillie Mandelbaum),female,39
+1,1, Mr. Elmer Zebley,male,48
+1,1, Mrs. Elmer Zebley (Juliet Cummins Wright),female,
+1,0, Mr. John Borland,male,49
+1,1, Mr. John Borland Jr,male,17
+1,1, Mrs. John Borland (Marian Longstreth Morris),female,39
+1,1, Mrs. Gertrude Maybelle,female,
+1,1, Mr. Gilbert Milligan Jr,male,31
+1,0, Don. Manuel E,male,40
+1,0, Mr. Wyckoff,male,61
+1,0, Mr. William Anderson,male,47
+1,1, Miss. Anna,female,35
+1,0, Mr. Frank Manley,male,64
+1,1, Mrs. Frank Manley (Anna Sophia Atkinson),female,60
+1,0, Col. John,male,60
+1,0, Mr. Percival Wayland,male,54
+1,0, Mr. Richard Frasar,male,21
+1,1, Mrs. John Stuart (Ella Holmes),female,55
+1,1, Miss. Mary Natalie,female,31
+1,0, Mr. George Dennick,male,57
+1,1, Mrs. George Dennick (Mary Hitchcock),female,45
+1,0, Mr. George Dunton,male,50
+1,0, Mr. Harry Elkins,male,27
+1,1, Mrs. George Dunton (Eleanor Elkins),female,50
+1,1, Miss. Constance,female,21
+1,0, Mr. Charles Duane,male,51
+1,1, Mr. Richard Norris II,male,21
+1,0, Mr. Fletcher Fellows,male,
+1,1, Miss. Helen Alice,female,31
+1,1, Mr. Hugh,male,
+1,0, Mr. George,male,62
+1,1, Miss. Marie Grice,female,36
+2,0, Mr. Samuel,male,30
+2,1, Mrs. Samuel (Hannah Wizosky),female,28
+2,0, Mr. Charles Augustus,male,30
+2,0, Mr. Edgardo Samuel,male,18
+2,0, Mr. Frank Thomas,male,25
+2,0, Mr. William A,male,34
+2,1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)female",female,36
+2,0, Mr. John,male,57
+2,0, Mr. Percy Andrew,male,18
+2,0, Mr. Charles Robert,male,23
+2,1, Mrs. (Ada E Hall),female,36
+2,0, Mr. Frederick James,male,28
+2,0, Rev. Robert James,male,51
+2,1, Mr. Edward,male,32
+2,1, Mrs. Edward (Ethel Clarke),female,19
+2,0, Mr. Henry James,male,28
+2,1, Master. Richard F,male,1
+2,1, Miss. Marion Louise,female,4
+2,1, Miss. Ruth Elizabeth,female,12
+2,1, Mrs. Allen Oliver (Nellie E Baumgardner),female,36
+2,1, Mr. Lawrence,male,34
+2,1, Miss. Lilian W,female,19
+2,0, Mr. William John,male,23
+2,0, Mr. William Hull,male,26
+2,0, Mr. Solomon,male,42
+2,0, Mr. James H,male,27
+2,1,"Brown, Miss. Amelia ""Mildred""",female,24
+2,1, Miss. Edith Eileen,female,15
+2,0, Mr. Thomas William Solomon,male,60
+2,1, Mrs. Thomas William Solomon (Elizabeth Catherine Ford),female,40
+2,1, Miss. Dagmar Jenny Ingeborg ,female,20
+2,0, Mr. Kurt Arnold Gottfrid,male,25
+2,1, Miss. Kate,female,36
+2,0, Mr. Reginald Fenton,male,25
+2,0, Rev. Thomas Roussel Davids,male,42
+2,1, Mrs. (Karolina),female,42
+2,1, Master. Alden Gates,male,0
+2,1, Mr. Albert Francis,male,26
+2,1, Mrs. Albert Francis (Sylvia Mae Harbaugh),female,22
+2,1, Miss. Clear Annie,female,35
+2,0, Mr. William,male,
+2,0, Mr. William,male,19
+2,0, Mrs. Ernest Courtenay (Lilian Hughes),female,44
+2,0, Rev. Ernest Courtenay,male,54
+2,0, Mr. Charles Henry,male,52
+2,0, Mr. John Henry,male,37
+2,0, Mrs. John Henry (Sara Elizabeth Lawry),female,29
+2,1, Miss. Julie Rachel,female,25
+2,1, Mrs. (Alice Frances),female,45
+2,0, Mr. Charles Valentine,male,29
+2,1, Mrs. Charles V (Ada Maria Winfield),female,28
+2,0, Mr. Reginald Charles,male,29
+2,0, Mr. Erik Gustaf,male,28
+2,1, Mr. Sidney C Stuart,male,24
+2,1,"Collyer, Miss. Marjorie ""Lottie""",female,8
+2,0, Mr. Harvey,male,31
+2,1, Mrs. Harvey (Charlotte Annie Tate),female,31
+2,1, Mrs. (Selena Rogers),female,22
+2,0, Mrs. Walter H (Irene Colvin),female,30
+2,0, Mrs. Percy C (Mary Phyllis Elizabeth Miller),female,
+2,0,"Cotterill, Mr. Henry ""Harry""",male,21
+2,0, Mr. Alfred Fleming,male,
+2,1, Master. John Morgan Jr,male,8
+2,0, Mr. Charles Henry,male,18
+2,1, Mrs. John Morgan (Elizabeth Agnes Mary White) ,female,48
+2,1, Miss. Mary,female,28
+2,0, Mr. Jose Joaquim,male,32
+2,0, Mr. Percy William,male,17
+2,0, Mr. Sebastiano,male,29
+2,1, Mrs. Sebastiano (Argenia Genovesi),female,24
+2,0, Mr. Herbert,male,25
+2,0, Mr. William,male,18
+2,1, Miss. Elsie,female,18
+2,1, Mrs. John T (Ada Julia Bone),female,34
+2,0, Mr. William James,male,54
+2,1, Master. Marshall Brines,male,8
+2,0, Mr. James Vivian,male,42
+2,1, Mrs. James Vivian (Lulu Thorne Christian),female,34
+2,1, Miss. Asuncion,female,27
+2,1, Miss. Florentina,female,30
+2,0, Mr. George Floyd,male,23
+2,0, Mr. Ingvar,male,21
+2,0, Mr. Arne Jonas,male,18
+2,0, Mr. Harry,male,40
+2,1, Mrs. Lizzie (Elizabeth Anne Wilkinson),female,29
+2,0, Mr. Joseph Charles,male,18
+2,0, Mr. Stanley Hubert,male,36
+2,0,"Frost, Mr. Anthony Wood ""Archie""",male,
+2,0, Miss. Annie Clemmer,female,38
+2,0, Mr. Joseph J,male,35
+2,0, Mr. Harry,male,38
+2,0, Mr. Shadrach,male,34
+2,1, Miss. Ethel,female,34
+2,0, Mr. Alfred,male,16
+2,0, Mr. Lawrence,male,26
+2,0, Mr. William,male,47
+2,0, Mr. Edgar,male,21
+2,0, Mr. Frederick Edward,male,21
+2,0, Mr. Ralph,male,24
+2,0, Mr. John William,male,24
+2,0, Mr. William Henry,male,34
+2,0, Mr. Hans Kristensen,male,30
+2,0, Mr. Samuel,male,52
+2,0, Mr. Reginald,male,30
+2,1, Master. Viljo,male,0
+2,1, Mrs. William (Anna),female,24
+2,0, Mr. William H,male,44
+2,1,"Harper, Miss. Annie Jessie ""Nina""",female,6
+2,0, Rev. John,male,28
+2,1, Mr. George,male,62
+2,0, Mr. Walter,male,30
+2,1, Miss. Eva Miriam,female,7
+2,0, Mr. Benjamin,male,43
+2,1, Mrs. Benjamin (Esther Ada Bloomfield),female,45
+2,1, Miss. Alice,female,24
+2,1, Miss. Kate,female,24
+2,0, Mr. Samuel,male,49
+2,1, Mrs. Samuel (Jane Laver),female,48
+2,1, Mrs. (Mary D Kingcome) ,female,55
+2,0, Mr. Leonard Mark,male,24
+2,0, Mr. Lewis,male,32
+2,0, Mr. Stanley George,male,21
+2,0, Miss. Marta,female,18
+2,1,"Hocking, Miss. Ellen ""Nellie""",female,
+2,0, Mr. Richard George,male,23
+2,0, Mr. Samuel James Metcalfe,male,36
+2,1, Mrs. Elizabeth (Eliza Needs),female,54
+2,0, Mr. Henry Price,male,50
+2,0, Mr. Stephen,male,44
+2,1, Mrs. Stephen (Annie Margaret Hill),female,29
+2,0, Mr. Ambrose Jr,male,21
+2,1, Mr. Masabumi,male,42
+2,0, Mr. Benjamin,male,63
+2,0, Mrs. Benjamin (Ellen Truelove Arman),female,60
+2,0, Mr. George Henry,male,33
+2,1, Miss. Bertha,female,17
+2,0, Mr. Sidney Samuel,male,42
+2,1, Mrs. Sidney Samuel (Amy Frances Christy),female,24
+2,0, Mr. John Denzil,male,47
+2,0, Mr. Clifford Thomas,male,24
+2,0, Mr. Ernest Wilfred,male,22
+2,0, Mr. Stephen Curnow,male,32
+2,1, Mrs. Amin S (Marie Marthe Thuillard),female,23
+2,0, Mr. Sinai,male,34
+2,1, Mrs. Sinai (Miriam Sternin),female,24
+2,0, Mrs. J Frank (Claire Bennett),female,22
+2,1, Miss. Nora A,female,
+2,0, Mr. Daniel,male,35
+2,1,"Kelly, Mrs. Florence ""Fannie""",female,45
+2,0, Rev. Charles Leonard,male,57
+2,0, Mr. Robert J,male,
+2,0, Mr. Johan Henrik Johannesson,male,31
+2,0, Mrs. William (Anna Sylfven),female,26
+2,0, Rev. William,male,30
+2,0, Mr. John Joseph,male,
+2,1, Miss. Louise,female,1
+2,1, Miss. Simonne Marie Anne Andree,female,3
+2,0, Mr. Joseph Philippe Lemercier,male,25
+2,1, Mrs. Joseph (Juliette Marie Louise Lafargue),female,22
+2,1, Miss. Bertha,female,17
+2,1, Miss. Jessie Wills,female,
+2,1, Mrs. (Amelia Milley),female,34
+2,0, Mr. Rene Jacques,male,36
+2,0, Mr. Robert William Norman,male,24
+2,0, Mr. John,male,61
+2,0, Mr. Charles Alexander,male,50
+2,1, Mrs. Charles Alexander (Alice Adelaide Slow),female,42
+2,0, Mrs. (Mary),female,57
+2,0, Mr. Noel,male,
+2,1, Master. Andre,male,1
+2,0, Mr. Albert,male,31
+2,1, Mrs. Albert (Antoinette Magnin),female,24
+2,0, Mr. Serafino Emilio,male,
+2,0, Mr. William John,male,30
+2,0, Mr. Frank Hubert,male,40
+2,0, Mr. Arthur Gordon,male,32
+2,0, Mr. James Matthew,male,30
+2,0, Mr. Peter David,male,46
+2,1, Miss. Madeleine Violet,female,13
+2,1, Mrs. (Elizabeth Anne Maidment),female,41
+2,1, Mr. William John,male,19
+2,0, Mr. August,male,39
+2,0, Mr. Jacob Christian,male,48
+2,0, Mr. Henry Michael,male,70
+2,0, Rev. Juozas,male,27
+2,0, Dr. Ernest,male,54
+2,0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39
+2,0, Mr. Thomas Charles,male,16
+2,0, Mr. Thomas Francis,male,62
+2,0, Mr. Nicholas,male,32
+2,1, Mrs. Nicholas (Adele Achem),female,14
+2,1, Master. Edmond Roger,male,2
+2,1, Master. Michel M,male,3
+2,0,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36
+2,0, Mr. Israel,male,26
+2,0, Mr. Joseph Charles,male,19
+2,0, Mr. Robert Douglas,male,28
+2,1,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",male,20
+2,1, Mrs. (Elizabeth Ramell),female,29
+2,0, Mr. Richard,male,39
+2,1, Mr. Percy Thomas,male,22
+2,1, Mr. Julian,male,
+2,0, Dr. Alfred,male,23
+2,1, Mr. Emilio,male,29
+2,0, Mr. Clifford Richard,male,28
+2,0,"Parkes, Mr. Francis ""Frank""",male,
+2,1, Mrs. (Lutie Davis),female,50
+2,0, Mr. Frederick William,male,19
+2,0, Mr. Rene,male,
+2,0, Rev. Joseph Maria,male,41
+2,1, Miss. Alice Frances Louisa,female,21
+2,1,"Phillips, Miss. Kate Florence ",female,19
+2,0, Mr. Escott Robert,male,43
+2,1, Mrs. (Rosa),female,32
+2,0, Mr. Martin,male,34
+2,1, Mr. Emilio Ilario Giuseppe,male,30
+2,0, Mr. Franz,male,27
+2,1, Miss. Phyllis May,female,2
+2,1, Miss. Winifred Vera,female,8
+2,1, Mrs. Frederick Charles (Jane Richards),female,33
+2,0, Mr. David,male,36
+2,0, Mr. Peter Henry,male,34
+2,1, Mrs. Peter Henry (Lillian Jefferys),female,30
+2,1, Ms. Encarnacion,female,28
+2,0, Mr. Emile,male,23
+2,1, Master. George Sibley,male,0
+2,1, Master. William Rowe,male,3
+2,1, Mrs. Sidney (Emily Hocking),female,24
+2,1, Miss. Lucy,female,50
+2,0, Mr. Reginald Harry,male,19
+2,1, Miss. Emily,female,21
+2,0, Mr. August,male,26
+2,0, Mr. Charles Frederick Waddington,male,25
+2,0, Mr. Percival James R,male,27
+2,1, Mrs. William (Imanita Parrish Hall),female,25
+2,1, Miss. Lyyli Karoliina,female,18
+2,1, Miss. Maude,female,20
+2,1, Miss. Anna,female,30
+2,0, Mr. Ernst Adolf,male,59
+2,1, Miss. Hilda Mary,female,30
+2,0, Mr. Richard James,male,35
+2,1, Miss. Marion Elsie,female,40
+2,0, Mr. Samuel James Hayden,male,25
+2,0, Mr. Samuel Ward,male,41
+2,0, Mr. Philip Joseph,male,25
+2,0, Mr. George,male,18
+2,0, Mr. George Frederick,male,14
+2,1, Miss. Ellen,female,50
+2,0, Mr. Moses Aaron,male,23
+2,1, Mrs. William H (Jessie L),female,28
+2,1,"Troutt, Miss. Edwina Celia ""Winnie""",female,27
+2,0, Mr. William John Robert,male,29
+2,0, Mrs. William John Robert (Dorothy Ann Wonnacott),female,27
+2,0, Mr. James,male,40
+2,1, Miss. Nellie,female,31
+2,0, Mr. John James,male,30
+2,0, Mr. William Jeffery,male,23
+2,1, Mrs. John James (Florence Louise Long),female,31
+2,0, Mr. Ennis Hastings,male,
+2,1, Miss. Bertha J,female,12
+2,1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40
+2,1, Miss. Susan,female,32
+2,0, Mr. Leopold,male,27
+2,1, Mrs. Leopold (Mathilde Francoise Pede),female,29
+2,1, Master. Ralph Lester,male,2
+2,1, Miss. Joan,female,4
+2,1,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",female,29
+2,1, Miss. Barbara J,female,0
+2,1, Miss. Constance Mirium,female,5
+2,0, Mr. Edwy Arthur,male,36
+2,1, Mrs. Edwy Arthur (Ada Mary Worth),female,33
+2,0, Mr. Edward H,male,66
+2,0,"Wheeler, Mr. Edwin ""Frederick""",male,
+2,1, Mr. Charles,male,31
+2,1, Mr. Charles Eugene,male,
+2,1, Miss. Marion,female,26
+2,0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24
+3,0, Mr. Anthony,male,42
+3,0, Master. Eugene Joseph,male,13
+3,0, Mr. Rossmore Edward,male,16
+3,1, Mrs. Stanton (Rosa Hunt),female,35
+3,1, Miss. Karen Marie,female,16
+3,1, Mr. Olaus Jorgensen,male,25
+3,1, Mr. Abraham August Johannes,male,20
+3,1, Mrs. Joseph (Sophie Halaut Easu),female,18
+3,0, Mr. Mauritz Nils Martin,male,30
+3,0, Mr. John,male,26
+3,0, Mrs. Johan (Johanna Persdotter Larsson),female,40
+3,1, Master. Philip Frank,male,0
+3,1, Mrs. Sam (Leah Rosen),female,18
+3,1, Mr. Nassef Cassem,male,26
+3,0, Mr. William,male,26
+3,0, Mr. Ilmari Rudolf,male,20
+3,0, Mr. Ahmed,male,24
+3,0, Mr. William,male,25
+3,0, Mr. William Henry,male,35
+3,0, Mr. Owen George,male,18
+3,0, Mr. Albert Karvin,male,32
+3,1, Miss. Carla Christine Nielsine,female,19
+3,0, Master. Sigvard Harald Elias,male,4
+3,0, Miss. Ebba Iris Alfrida,female,6
+3,0, Miss. Ellis Anna Maria,female,2
+3,1, Miss. Erna Alexandra,female,17
+3,0, Miss. Ida Augusta Margareta,female,38
+3,0, Miss. Ingeborg Constanzia,female,9
+3,0, Miss. Sigrid Elisabeth,female,11
+3,0, Mr. Anders Johan,male,39
+3,1,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27
+3,0, Mr. Johan Samuel,male,26
+3,0, Mrs. Anders Johan (Alfrida Konstantia Brogren),female,39
+3,0, Mr. Paul Edvin,male,20
+3,0, Mr. Minko,male,26
+3,0, Mr. Josef,male,25
+3,0, Mrs. Josef (Josefine Franchi),female,18
+3,0, Mr. Ernst Axel Algot,male,24
+3,0, Mr. Adola,male,35
+3,0, Master. Carl Edgar,male,5
+3,0, Master. Clarence Gustaf Hugo,male,9
+3,1, Master. Edvin Rojj Felix,male,3
+3,0, Master. Filip Oscar,male,13
+3,1, Miss. Lillian Gertrud,female,5
+3,0, Mr. Carl Oscar Vilhelm Gustafsson,male,40
+3,1, Mr. Johan Charles,male,23
+3,1, Mrs. Carl Oscar (Selma Augusta Emilia Johansson),female,38
+3,1,"Assaf Khalil, Mrs. Mariana (""Miriam"")",female,45
+3,0, Mr. Gerios,male,21
+3,0, Mr. Ali,male,23
+3,0, Miss. Malake,female,17
+3,0, Mr. Sleiman,male,30
+3,0, Mr. Albert,male,23
+3,1, Miss. Banoura,female,13
+3,0, Mr. Raffull,male,20
+3,0, Mr. Karl Alfred,male,32
+3,1, Mrs. Karl Alfred (Maria Mathilda Gustafsson),female,33
+3,1, Miss. Eugenie,female,0
+3,1, Miss. Helene Barbara,female,0
+3,1, Miss. Marie Catherine,female,5
+3,1, Mrs. Solomon (Latifa Qurban),female,24
+3,1, Miss. Emily Louisa,female,18
+3,0, Mr. Mohamed,male,40
+3,0, Mr. Cerin,male,26
+3,1, Mr. Hanna Assi,male,20
+3,0, Miss. Saiide,female,18
+3,0, Mrs. (Catherine David),female,45
+3,0, Miss. Julia,female,27
+3,0, Mr. David John,male,22
+3,0, Mr. William Thomas,male,19
+3,0, Mr. John Viktor,male,26
+3,0, Mr. Karl Ivar Sven,male,22
+3,0, Master. Seman,male,
+3,0, Mr. Tannous,male,20
+3,1, Mr. Lee,male,32
+3,0, Mr. Hans Martin Monsen,male,21
+3,0, Mr. Ernst Herbert,male,18
+3,0, Mr. Guentcho,male,26
+3,0, Master. Akar,male,6
+3,0, Miss. Nourelain,female,9
+3,0, Mr. Hanna,male,
+3,0, Mrs. Joseph (Sultana),female,
+3,0, Miss. Mary,female,
+3,0, Mr. John,male,40
+3,0, Mrs. John (Catherine),female,32
+3,0,"Bowen, Mr. David John ""Dai""",male,21
+3,1, Miss. Bridget Delia,female,22
+3,0, Miss. Elin Ester Maria,female,20
+3,0, Mr. Lewis Richard,male,29
+3,0, Mr. Owen Harris,male,22
+3,0, Mr. Karl Rudolf,male,22
+3,0, Mr. William Alfred,male,35
+3,0, Miss. Katherine,female,18
+3,1, Mr. Daniel,male,21
+3,0, Mr. Jeremiah,male,19
+3,0, Miss. Mary Delia,female,18
+3,0, Miss. Manda,female,21
+3,0, Miss. Marija,female,30
+3,0, Mr. Jego Grga,male,18
+3,0, Mr. Luka,male,38
+3,0, Mr. Jovo,male,17
+3,0, Mr. Petar,male,17
+3,0, Miss. Mary,female,21
+3,0, Mr. Patrick,male,21
+3,0, Mr. Ernest Charles,male,21
+3,0, Mr. Joseph,male,
+3,0, Mrs. Joseph (Maria Elias),female,
+3,0, Mr. August Sigfrid,male,28
+3,0, Mr. Carl Robert,male,24
+3,1,"Carr, Miss. Helen ""Ellen""",female,16
+3,0, Miss. Jeannie,female,37
+3,0, Mr. Alfred John,male,28
+3,0, Mr. Francesco,male,24
+3,0, Mr. David,male,21
+3,1, Mr. Chang,male,32
+3,0, Mr. Emil,male,29
+3,0, Mr. Apostolos,male,26
+3,0, Mr. Demetrios,male,18
+3,0, Mr. Domingos Fernandeo,male,20
+3,1,"Cohen, Mr. Gurshon ""Gus""",male,18
+3,0, Mr. Patrick,male,24
+3,0, Mr. Peju,male,36
+3,0, Mr. Satio,male,24
+3,0, Mr. Thomas Henry,male,31
+3,0, Mr. Michael,male,31
+3,1, Miss. Kate,female,22
+3,0, Miss. Kate,female,30
+3,0, Mr. Patrick,male,70
+3,0, Mr. Jacob,male,43
+3,0, Mr. Bartol,male,35
+3,0, Mr. Ivan,male,27
+3,0, Mr. Liudevit,male,19
+3,0, Mr. Harry,male,30
+3,1,"Coutts, Master. Eden Leslie ""Neville""",male,9
+3,1,"Coutts, Master. William Loch ""William""",male,3
+3,1,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",female,36
+3,0, Mr. Daniel,male,59
+3,0, Mr. Ernest James,male,19
+3,1, Miss. Laura Alice,female,17
+3,0, Mr. John Hatfield,male,44
+3,0, Mr. Jeso,male,17
+3,0, Mr. Shedid,male,22
+3,1, Mr. Karl Edwart,male,45
+3,0, Miss. Gerda Ulrika,female,22
+3,0, Mr. Branko,male,19
+3,1,"Daly, Miss. Margaret Marcella ""Maggie""",female,30
+3,1, Mr. Eugene Patrick,male,29
+3,0, Master. Gilbert Sigvard Emanuel,male,0
+3,0, Mr. Ernst Gilbert,male,34
+3,0, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),female,28
+3,0, Mr. Yoto,male,27
+3,0, Mr. Ristiu,male,25
+3,0, Mr. Alfred J,male,24
+3,0, Mr. Evan,male,22
+3,0, Mr. John Samuel,male,21
+3,0, Mr. Joseph,male,17
+3,0, Mr. Thomas Henry,male,
+3,1, Mrs. Thomas Henry (Mary E Finck),female,
+3,1, Mr. Guillaume Joseph,male,36
+3,1, Mrs. Guillaume Joseph (Emma),female,36
+3,1, Mr. Theodore,male,30
+3,0, Mr. Alfons,male,16
+3,1, Master. Bertram Vere,male,1
+3,1,"Dean, Miss. Elizabeth Gladys ""Millvina""",female,0
+3,0, Mr. Bertram Frank,male,26
+3,1, Mrs. Bertram (Eva Georgetta Light),female,33
+3,0, Mr. Redjo,male,25
+3,0, Mr. Marinko,male,
+3,0, Mr. Mitto,male,
+3,0, Mr. Samuel,male,22
+3,0, Mr. William,male,36
+3,1, Miss. Margaret Delia,female,19
+3,0, Mr. Mirko,male,17
+3,0, Mr. Jovan,male,42
+3,0, Mr. Valtcho,male,43
+3,0, Mr. Tannous,male,
+3,0, Mr. Patrick,male,32
+3,1, Mr. Edward Arthur,male,19
+3,1, Miss. Elizabeth,female,30
+3,0, Miss. Elizabeth,female,24
+3,1, Miss. Jennie,female,23
+3,0, Mr. Jozef,male,33
+3,0, Mr. Frank,male,65
+3,1, Mr. Joseph,male,24
+3,0, Mr. Adolf Fredrik,male,23
+3,1, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson),female,22
+3,0, Mr. Gustaf Hjalmar,male,18
+3,0, Mr. Hans Linus,male,16
+3,0, Mr. Johan,male,45
+3,0, Mr. Dibo,male,
+3,0, Mr. Joseph,male,39
+3,0, Mr. Joseph Jr,male,17
+3,0, Mr. Tannous,male,15
+3,0, Mr. William James,male,47
+3,1, Miss. Virginia Ethel,female,5
+3,0, Mr. Farred Chehab,male,
+3,0, Mr. Thomas James,male,40
+3,0, Mr. James,male,40
+3,1, Mr. Luigi,male,
+3,0, Mr. Eberhard Thelander,male,18
+3,0, Miss. Honora,female,
+3,0, Mr. James,male,
+3,0, Mr. John,male,
+3,0, Mr. Joseph,male,26
+3,0, Mr. William,male,
+3,1, Mr. Choong,male,
+3,0,"Ford, Miss. Doolina Margaret ""Daisy""",female,21
+3,0,"Ford, Miss. Robina Maggie ""Ruby""",female,9
+3,0, Mr. Arthur,male,
+3,0, Mr. Edward Watson,male,18
+3,0, Mr. William Neal,male,16
+3,0, Mrs. Edward (Margaret Ann Watson),female,48
+3,0, Mr. Patrick,male,
+3,0, Mr. Charles (Charles Fardon),male,
+3,0, Mr. Martin,male,25
+3,0, Mr. John,male,
+3,0, Mr. Stanio,male,
+3,0, Mr. Eliezer,male,22
+3,1,"Gilnagh, Miss. Katherine ""Katie""",female,16
+3,1, Miss. Mary Agatha,female,
+3,1,"Goldsmith, Master. Frank John William ""Frankie""",male,9
+3,0, Mr. Frank John,male,33
+3,0, Mr. Nathan,male,41
+3,1, Mrs. Frank John (Emily Alice Brown),female,31
+3,0, Mr. Manuel Estanslas,male,38
+3,0, Master. Harold Victor,male,9
+3,0, Master. Sidney Leonard,male,1
+3,0, Master. William Frederick,male,11
+3,0, Miss. Jessie Allis,female,10
+3,0, Miss. Lillian Amy,female,16
+3,0, Mr. Charles Edward,male,14
+3,0, Mr. Charles Frederick,male,40
+3,0, Mrs. Frederick (Augusta Tyler),female,43
+3,0, Mr. George Henry,male,51
+3,0, Mr. Daniel Danielsen,male,32
+3,0, Mr. Robert,male,
+3,0, Mr. Alfred Ossian,male,20
+3,0, Mr. Anders Vilhelm,male,37
+3,0, Mr. Johan Birger,male,28
+3,0, Mr. Karl Gideon,male,19
+3,0, Miss. Aloisia,female,24
+3,0, Miss. Kate,female,17
+3,0, Mr. Ingvald Olai Olsen,male,
+3,0, Mr. Konrad Mathias Reiersen,male,
+3,0, Mr. Pekka Pietari,male,28
+3,1, Mrs. Pekka Pietari (Elin Matilda Dolck),female,24
+3,0, Mr. Leon,male,20
+3,0, Mr. Mansour,male,23
+3,0, Mr. Claus Peter,male,41
+3,0, Mr. Henrik Juul,male,26
+3,0, Mr. Henry Damsgaard,male,21
+3,1, Mrs. Claus Peter (Jennie L Howard),female,45
+3,0, Miss. Alice Phoebe,female,
+3,0, Mr. Abraham (David Lishin),male,25
+3,0, Mr. Henry,male,
+3,0, Mr. Houssein G N,male,11
+3,1,"Healy, Miss. Hanora ""Nora""",female,
+3,1, Mr. Oskar Arvid,male,27
+3,1, Mr. Ling,male,
+3,0,"Hegarty, Miss. Hanora ""Nora""",female,18
+3,1, Miss. Laina,female,26
+3,0, Miss. Wendla Maria,female,23
+3,1, Miss. Hilda Maria,female,22
+3,0, Mr. Ignjac,male,28
+3,0, Miss. Jenny Lovisa,female,28
+3,0, Miss. Delia,female,
+3,1, Miss. Hildur E,female,2
+3,1, Mrs. Alexander (Helga E Lindqvist),female,22
+3,0, Mr. John Fredrik Alexander,male,43
+3,0, Mr. Johan Martin,male,28
+3,1, Miss. Eliina,female,27
+3,0, Mr. John,male,
+3,1, Miss. May Elizabeth,female,
+3,0, Mr. Adolf Mathias Nicolai Olsen,male,42
+3,1, Mr. Abraham,male,
+3,0, Mr. Yousseff,male,30
+3,0, Mr. Ylio,male,
+3,0, Miss. Ida Livija,female,27
+3,0, Miss. Pieta Sofia,female,25
+3,0, Mr. Kanio,male,
+3,1, Mr. Ivan,male,29
+3,1, Mr. Carl Olof,male,21
+3,0, Mr. Jose Neto,male,
+3,0, Mr. Hans Peder,male,20
+3,0, Mr. Niels Peder,male,48
+3,0, Mr. Svend Lauritz,male,17
+3,1, Miss. Annie,female,
+3,1, Mr. Bernt,male,
+3,0, Mr. Jakob Alfred,male,34
+3,1, Mr. Oskar Leander,male,26
+3,0, Mr. Erik,male,22
+3,0, Mr. Gustaf Joel,male,33
+3,0, Mr. Karl Johan,male,31
+3,0, Mr. Nils,male,29
+3,1, Master. Harold Theodor,male,4
+3,1, Miss. Eleanor Ileen,female,1
+3,0, Mr. Alfred,male,49
+3,0, Mr. Malkolm Joackim,male,33
+3,0, Mr. William Cahoone Jr,male,19
+3,1, Mrs. Oscar W (Elisabeth Vilhelmina Berg),female,27
+3,0,"Johnston, Master. William Arthur ""Willie""",male,
+3,0,"Johnston, Miss. Catherine Helen ""Carrie""",female,
+3,0, Mr. Andrew G,male,
+3,0,"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",female,
+3,0, Mr. Lalio,male,23
+3,1, Mr. Carl,male,32
+3,0, Mr. Nils Hilding,male,27
+3,0, Miss. Katriina,female,20
+3,0, Miss. Mari Aina,female,21
+3,1, Mr. Eiriik,male,32
+3,0, Mr. Nikolai Erland,male,17
+3,0, Mr. Johannes Halvorsen,male,21
+3,0, Mr. Milan,male,30
+3,1, Mr. Einar Gervasius,male,21
+3,0, Mr. Julius Konrad Eugen,male,33
+3,0, Mr. Nils August,male,22
+3,1, Miss. Manca,female,4
+3,1, Mr. Franz,male,39
+3,0, Mr. Fared,male,
+3,0,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",male,19
+3,0,"Keane, Mr. Andrew ""Andy""",male,
+3,0, Mr. Arthur,male,
+3,1,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,
+3,1, Miss. Mary,female,
+3,0, Mr. James,male,34
+3,0, Mr. James,male,44
+3,1, Mr. John,male,
+3,0, Mr. Betros,male,
+3,0,"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",female,
+3,0, Mr. John,male,
+3,0, Mr. Philip,male,
+3,0, Mr. Thomas J,male,
+3,0, Miss. Maria,female,22
+3,0, Mr. Vincenz,male,26
+3,1, Miss. Luise Gretchen,female,4
+3,1, Mr. Anton,male,29
+3,1, Mrs. Anton (Luise Heilmann),female,26
+3,0, Miss. Gertrud Emilia,female,1
+3,0, Mr. Klas Albin,male,18
+3,0, Mrs. (Hulda Kristina Eugenia Lofqvist),female,36
+3,0, Mr. Theodor,male,
+3,1, Mr. Neshan,male,25
+3,0, Mr. Sarkis,male,
+3,0, Miss. Kristina Sofia,female,37
+3,0, Mr. Kristo,male,
+3,1, Mr. Ali,male,
+3,0, Mr. Len,male,
+3,1, Miss. Aurora Adelia,female,22
+3,0, Mr. Patrick,male,
+3,1, Mr. Fang,male,26
+3,0, Mr. August Viktor,male,29
+3,0, Mr. Bengt Edvin,male,29
+3,0, Mr. Edvard A,male,22
+3,1,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22
+3,0, Master. Henry Forbes,male,
+3,0, Miss. Ida,female,
+3,0, Miss. Jeannie,female,
+3,0, Miss. Mathilde,female,
+3,0, Mrs. Frank (Frances),female,
+3,0, Mr. Antti Gustaf,male,32
+3,0, Mr. Peter L,male,34
+3,0, Miss. Mary,female,
+3,0, Mr. Denis,male,
+3,0, Mr. Lionel,male,36
+3,0, Mr. James,male,39
+3,0, Mr. Rene Aime,male,24
+3,0, Miss. Agda Thorilda Viktoria,female,25
+3,0, Miss. Augusta Charlotta,female,45
+3,0, Mr. Edvard Bengtsson,male,36
+3,0, Mrs. Edvard Bengtsson (Elin Gerda Persson),female,30
+3,1, Mr. Eino William,male,20
+3,0, Mr. Michael,male,
+3,0, Mr. Lee,male,28
+3,0, Mr. Simon,male,
+3,0, Mr. William Arthur,male,30
+3,0, Mrs. William Arthur (Cordelia K Stanlick),female,26
+3,0, Mr. Edward,male,
+3,0,"Lovell, Mr. John Hall (""Henry"")",male,21
+3,1, Mr. Nikola,male,27
+3,0, Mr. Johan Svensson,male,51
+3,1, Miss. Olga Elida,female,23
+3,1, Mr. Thure Edvin,male,32
+3,0, Mr. Stanko,male,
+3,0, Mr. George William,male,
+3,1,"Madigan, Miss. Margaret ""Maggie""",female,
+3,1, Mr. Fridtjof Arne,male,24
+3,0, Mr. Matti Alexanteri,male,22
+3,0, Miss. Bridget Delia,female,
+3,0, Mr. John,male,
+3,0, Mr. Simon,male,
+3,0, Mr. Kalle Edvard,male,29
+3,1, Mr. Hanna,male,
+3,0, Miss. Mary,female,30
+3,1, Miss. Margareth,female,
+3,0, Mr. Sarkis,male,
+3,0, Mr. Marin,male,35
+3,0, Mr. Johann,male,33
+3,1, Mrs. Fatima,female,
+3,0, Mr. Nicola,male,
+3,1,"McCarthy, Miss. Catherine ""Katie""",female,
+3,1, Mr. Thomas Joseph,male,
+3,1, Miss. Agnes,female,
+3,1, Miss. Alicia,female,
+3,1, Mr. Bernard,male,
+3,1, Miss. Brigdet Delia,female,
+3,0, Mr. Michael,male,
+3,1, Miss. Mary,female,
+3,1,"McGowan, Miss. Anna ""Annie""",female,15
+3,0, Miss. Katherine,female,35
+3,0, Mr. Martin,male,
+3,0, Mr. Neal,male,24
+3,0, Mrs. Neal (Eileen O'Leary),female,19
+3,0, Miss. Bridget,female,
+3,0, Miss. (Marion Ogden),female,
+3,0, Mrs. Thomas (Annie Louise Rowley),female,
+3,0, Mr. Alfonzo,male,55
+3,0, Mr. Robert,male,
+3,1, Mr. Karl Albert,male,21
+3,0, Mr. Frank,male,
+3,0, Mr. Ivan,male,24
+3,0, Mr. Lazar,male,21
+3,0, Mr. Stoytcho,male,28
+3,0, Mr. Mito,male,
+3,1,"Mockler, Miss. Helen Mary ""Ellie""",female,
+3,0, Mr. Sigurd Hansen,male,25
+3,1, Master. Meier,male,6
+3,1, Mrs. (Beila),female,27
+3,0, Mr. Leonard Charles,male,
+3,1, Miss. Bertha,female,
+3,0, Mr. Daniel J,male,
+3,0, Mr. James,male,
+3,0, Mr. William,male,34
+3,0, Mr. Thomas Rowan,male,
+3,1, Mr. Albert Johan,male,
+3,1, Master. Gerios,male,
+3,1,"Moubarek, Master. Halim Gonios (""William George"")",male,
+3,1,"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",female,
+3,1, Mrs. (Mantoura Boulos),female,
+3,0, Mr. Rahamin Haim,male,
+3,1,"Mullens, Miss. Katherine ""Katie""",female,
+3,1, Miss. Bertha E,female,24
+3,0, Mr. Joseph,male,
+3,1,"Murphy, Miss. Katherine ""Kate""",female,
+3,1, Miss. Margaret Jane,female,
+3,1, Miss. Nora,female,
+3,0, Mr. Pehr Fabian Oliver Malkolm,male,18
+3,0, Mr. Penko,male,22
+3,1,"Najib, Miss. Adele Kiamie ""Jane""",female,15
+3,1,"Nakid, Miss. Maria (""Mary"")",female,1
+3,1, Mr. Sahid,male,20
+3,1,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",female,19
+3,0, Mr. William Henry,male,33
+3,0, Mr. Minko,male,
+3,0, Mr. Mustafa,male,
+3,0, Miss. Hannah,female,
+3,0, Mr. Christo,male,
+3,1, Master. Elias,male,12
+3,1, Miss. Jamila,female,14
+3,0, Miss. Manta Josefina,female,29
+3,0, Mr. Samuel,male,28
+3,1, Miss. Berta Olivia,female,18
+3,1, Miss. Helmina Josefina,female,26
+3,0, Mr. August Ferdinand,male,21
+3,0, Mr. Iisakki Antino Aijo,male,41
+3,1, Mr. Juha,male,39
+3,0, Mr. Richard Cater,male,21
+3,0, Mr. Mansouer,male,28
+3,1, Miss. Anna Sofia,female,22
+3,0, Mr. Johan Hansen,male,61
+3,0, Mr. Thomas,male,
+3,0, Mr. Timothy,male,
+3,1,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,
+3,0, Mr. Patrick D,male,
+3,0, Mr. Maurice,male,
+3,0, Mr. Patrick,male,
+3,0, Mr. Nils Martin,male,23
+3,0, Ms. Bridget,female,
+3,1, Miss. Bridget,female,
+3,1,"O'Dwyer, Miss. Ellen ""Nellie""",female,
+3,1, Miss. Velin,female,22
+3,1, Mr. Patrick,male,
+3,1,"O'Leary, Miss. Hanora ""Norah""",female,
+3,1, Master. Artur Karl,male,9
+3,0, Mr. Henry Margido,male,28
+3,0, Mr. Karl Siegwart Andreas,male,42
+3,0, Mr. Ole Martin,male,
+3,0, Miss. Elina,female,31
+3,0, Mr. Nils Johan Goransson,male,28
+3,1, Mr. Oscar Wilhelm,male,32
+3,0, Mr. Thor Anderson,male,20
+3,0, Miss. Jelka,female,23
+3,0, Miss. Marija,female,20
+3,0, Mr. Luka,male,20
+3,0, Mr. Olaf Elon,male,16
+3,1, Mrs. Mara,female,31
+3,0, Miss. Bridget Mary,female,
+3,0, Master. Gosta Leonard,male,2
+3,0, Master. Paul Folke,male,6
+3,0, Miss. Stina Viola,female,3
+3,0, Miss. Torborg Danira,female,8
+3,0, Mrs. Nils (Alma Cornelia Berglund),female,29
+3,0, Master. Eino Viljami,male,1
+3,0, Master. Juha Niilo,male,7
+3,0, Master. Urho Abraham,male,2
+3,0, Mr. Ernesti Arvid,male,16
+3,0, Mr. Jaako Arnold,male,14
+3,0, Mrs. Juha (Maria Emilia Ojala),female,41
+3,0, Mr. Jakob,male,21
+3,0, Mr. George,male,19
+3,0, Mr. Uscher,male,
+3,0, Mr. Stefo,male,32
+3,0, Master. Alfred Edward,male,0
+3,0, Miss. Treasteall,female,3
+3,0, Mrs. Benjamin (Edith Nile),female,26
+3,0, Mr. Ernest,male,
+3,0, Mr. Olaf,male,
+3,0, Mr. Joseph,male,
+3,0, Mr. Edvard,male,21
+3,0, Mr. Nikolai Johannes,male,25
+3,0, Mr. John Henry,male,22
+3,1, Mr. Ernst Ulrik,male,25
+3,1, Master. Michael J,male,
+3,1, Miss. Anna,female,
+3,1, Mrs. Catherine (Catherine Rizk),female,
+3,0, Miss. Katie,female,
+3,0, Mr. Marius,male,24
+3,0, Miss. Matilda,female,28
+3,0, Mr. Nedelio,male,19
+3,0,"Petroff, Mr. Pastcho (""Pentcho"")",male,
+3,0, Mr. Johan Emil,male,25
+3,0, Miss. Ellen Natalia,female,18
+3,1, Mr. Berk (Berk Trembisky),male,32
+3,0, Mr. Vasil,male,
+3,0, Mr. Mate,male,17
+3,0, Mr. Tome,male,24
+3,0, Mr. Alexander,male,
+3,0, Mrs. (Lena Jacobsen Solvang),female,
+3,0, Mr. Raihed,male,
+3,0, Mr. James George,male,
+3,0, Mr. Tido,male,38
+3,0, Mr. Harold J,male,21
+3,0, Master. Albert,male,10
+3,0, Master. Arthur,male,4
+3,0, Master. Eric,male,7
+3,0, Master. Eugene,male,2
+3,0, Master. George Hugh,male,8
+3,0, Mrs. William (Margaret Norton),female,39
+3,0,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",female,22
+3,0, Mr. Matti,male,35
+3,1,"Riordan, Miss. Johanna ""Hannah""",female,
+3,0, Mr. Samuel Beard,male,
+3,0, Mrs. Samuel (Emma),female,
+3,0, Mr. Alexander A,male,50
+3,0, Mrs. Alexander A (Grace Charity Laury),female,47
+3,0, Mr. William John,male,
+3,0, Mr. Knud Paust,male,
+3,0, Miss. Salli Helena,female,2
+3,0, Mr. Viktor Richard,male,18
+3,0, Mrs. Viktor (Helena Wilhelmina),female,41
+3,1, Miss. Sarah A,female,
+3,0, Mr. Richard Henry,male,50
+3,0, Mr. Alfred George John,male,16
+3,1, Mr. Edward,male,
+3,0, Mr. Patrick,male,
+3,0, Mr. Amin,male,
+3,0, Mr. Khalil,male,25
+3,0, Mr. Jean Nassr,male,
+3,0, Mr. Matthew,male,
+3,0, Mr. Harry,male,
+3,0, Mr. Simon Sivertsen,male,38
+3,0, Master. Thomas Henry,male,
+3,0, Master. William Henry,male,14
+3,0, Miss. Ada,female,
+3,0, Miss. Constance Gladys,female,
+3,0,"Sage, Miss. Dorothy Edith ""Dolly""",female,
+3,0, Miss. Stella Anna,female,
+3,0, Mr. Douglas Bullen,male,
+3,0, Mr. Frederick,male,
+3,0, Mr. George John Jr,male,
+3,0, Mr. John George,male,
+3,0, Mrs. John (Annie Bullen),female,
+3,0, Mr. Karl Johan,male,24
+3,1, Miss. Anna Kristine,female,21
+3,0, Mr. Johan Werner,male,39
+3,0, Mr. Elias,male,
+3,0, Mr. Hanna,male,
+3,0, Mr. Youssef,male,
+3,1, Miss. Beatrice Irene,female,1
+3,1, Mrs. Hjalmar (Agnes Charlotta Bengtsson),female,24
+3,1, Miss. Marguerite Rut,female,4
+3,1, Mr. Julius,male,25
+3,0, Mr. William Henry,male,20
+3,0, Mr. Frederick Charles,male,24
+3,0, Mr. James,male,
+3,0, Mr. Todor,male,
+3,0, Mr. Patrick,male,
+3,1, Mr. Jan Baptist,male,29
+3,0, Mr. Frederick William,male,
+3,1, Miss. Ellen Natalia,female,
+3,0, Mr. Charles Joseph,male,
+3,0, Mr. John,male,
+3,0, Mr. Orsen,male,22
+3,0, Mr. Maurice,male,
+3,0, Mr. Husein,male,40
+3,0, Mr. Antti Wilhelm,male,21
+3,1, Miss. Anna Sofia,female,18
+3,0, Master. Harald,male,4
+3,0, Master. Karl Thorsten,male,10
+3,0, Miss. Mabel,female,9
+3,0, Miss. Margit Elizabeth,female,2
+3,0, Mr. Wilhelm,male,40
+3,0, Mrs. William (Anna Bernhardina Karlsson),female,45
+3,0, Mr. Petco,male,
+3,0, Mr. Selman Francis,male,
+3,0, Mr. Mile,male,
+3,0, Mr. Thomas,male,
+3,1, Miss. Julia,female,
+3,0, Mr. Peter Andreas Lauritz Andersen,male,19
+3,0, Mr. Francis William,male,30
+3,0, Mr. Woolf,male,
+3,0, Mr. Henry John,male,32
+3,0, Mr. Ivan,male,
+3,0, Mr. Ivan,male,33
+3,1, Miss. Amy Zillah Elsie,female,23
+3,0, Mr. Edward Roland,male,21
+3,0, Mr. Thomas,male,60
+3,0, Mr. Ilia,male,19
+3,0, Miss. Ida Sofia,female,22
+3,1, Mr. Juho,male,31
+3,0, Mr. Ivan,male,27
+3,0, Miss. Telma Matilda,female,2
+3,0, Mrs. Wilhelm (Elna Matilda Persson),female,29
+3,1, Mr. Victor Francis,male,16
+3,1, Mr. Johan Julian,male,44
+3,0, Mr. Henry Jr,male,25
+3,0, Mr. Johan,male,74
+3,1, Mr. Johan Cervin,male,14
+3,0, Mr. Olof,male,24
+3,1, Mr. Gunnar Isidor,male,25
+3,0, Mr. Thomas Leonard,male,34
+3,1, Master. Assad Alexander,male,0
+3,0, Mr. Charles P,male,
+3,0, Mr. John,male,
+3,0, Mr. Tannous,male,
+3,1,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",female,16
+3,0, Mr. Alexander Morrison,male,
+3,0, Mr. Percival,male,
+3,1, Mrs. Percival (Florence Kate White),female,
+3,0, Mr. Juho,male,32
+3,0, Mr. Roger,male,
+3,0, Mr. Lalio,male,
+3,0, Mr. Ernest Portage,male,30
+3,0, Mr. Ernst William,male,44
+3,0, Mr. Assad,male,
+3,1, Mr. William Henry,male,25
+3,0, Mr. Nakli,male,
+3,1, Master. Georges Youssef,male,7
+3,1, Miss. Maria Youssef,female,9
+3,1, Mrs. Darwis (Hanne Youssef Razi),female,29
+3,0, Mr. Stjepan,male,36
+3,1, Miss. Anna Sofia,female,18
+3,1, Mrs. (Hedwig),female,63
+3,0, Master. James William,male,
+3,0, Master. Walter John,male,11
+3,0, Mr. Austin Blyler,male,40
+3,0, Miss. Catharina,female,10
+3,0, Mr. Jean Baptiste,male,36
+3,0, Mrs. Jean Baptiste (Rosalie Paula Govaert),female,30
+3,0, Mr. Philemon,male,
+3,0, Mr. Johannes Joseph,male,33
+3,0, Mr. Nestor Cyriel,male,28
+3,0, Mr. Leo Peter,male,28
+3,0, Mr. Victor,male,47
+3,0, Miss. Augusta Maria,female,18
+3,0, Mr. Julius,male,31
+3,0, Mr. Leo Edmondus,male,16
+3,0, Mrs. Julius (Emelia Maria Vandemoortele),female,31
+3,1, Mr. David,male,22
+3,0, Mr. Olof Edvin,male,20
+3,0, Miss. Hulda Amanda Adolfina,female,14
+3,0, Mr. Janko,male,22
+3,0, Mr. Achille,male,22
+3,0, Mr. Frederick,male,
+3,0, Mr. Charles William,male,
+3,0, Mr. James,male,
+3,0, Mr. Linhart,male,32
+3,1, Mrs. George Joseph (Shawneene Abi-Saab),female,38
+3,0, Mr. Carl/Charles Peter,male,51
+3,0, Mr. Jakob Alfred,male,18
+3,0, Mr. Karl Johan,male,21
+3,1, Mrs. James (Ellen Needs),female,47
+3,0,"Willer, Mr. Aaron (""Abi Weller"")",male,
+3,0, Mr. Edward,male,
+3,0,"Williams, Mr. Howard Hugh ""Harry""",male,
+3,0, Mr. Leslie,male,28
+3,0, Mr. Einar,male,21
+3,0, Mr. Albert,male,27
+3,0, Mr. Phillippe,male,
+3,0, Mr. Camille,male,36
+3,0, Mr. Antoni,male,27
+3,1, Mrs. Antoni (Selini Alexander),female,15
+3,0, Mr. Gerious,male,45
+3,0, Mr. Wazli,male,
+3,0, Mr. Gerious,male,
+3,0, Miss. Hileni,female,14
+3,0, Miss. Thamine,female,
+3,0, Mr. Mapriededer,male,26
+3,0, Mr. Ortin,male,27
+3,0, Mr. Leo,male,29
